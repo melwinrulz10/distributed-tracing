@@ -1,0 +1,11 @@
+AB10, BC8, CD16, DC16, DE12, AD10, CE4, EB6, AE14
+A,B,C
+A,D,F
+A,D,C
+A,E,B,C,D
+A,E,D
+C,C,3
+A,C,4
+E,A
+B,B
+C,C,60
